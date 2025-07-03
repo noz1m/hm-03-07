@@ -22,11 +22,4 @@ public class AccountController(IAccountService accountService) : ControllerBase
         var response = await accountService.RegisterAsync(register);
         return StatusCode((int)response.StatusCode, response);
     }
-
-    [HttpPost("logout")]
-    public async Task<IActionResult> LogoutAsync()
-    {
-        var response = await accountService.LogoutAsync();
-        return StatusCode((int)response.StatusCode, response);
-    }
 }

@@ -46,11 +46,6 @@ public class AccountService(DataContext context,UserManager<IdentityUser> userMa
         return new Response<string>("Successfully registered");
     }
 
-    public Task<Response<string>> LogoutAsync()
-    {
-        return Task.FromResult(new Response<string>("Logout is handled client-side using JWT."));
-    }
-
     private string GenerateJwtToken(IdentityUser user)
     {
         var claims = new List<Claim>

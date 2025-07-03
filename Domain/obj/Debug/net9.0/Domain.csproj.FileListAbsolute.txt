@@ -9,3 +9,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/Domain/obj/Debug/net9.0/Domain.sourcelink.json

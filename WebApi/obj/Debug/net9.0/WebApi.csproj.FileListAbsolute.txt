@@ -151,3 +151,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/WebApi/obj/Debug/net9.0/WebApi.pdb
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/WebApi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/WebApi/obj/Debug/net9.0/ref/WebApi.dll
+/Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/Tasks/hm-03-07/WebApi/obj/Debug/net9.0/WebApi.sourcelink.json
